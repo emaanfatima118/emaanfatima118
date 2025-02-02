@@ -4,7 +4,7 @@
 
 
 ## 💡 Who Am I?  
-Hey there! 👋 I'm a **Computer Science student** with a passion for **building, breaking, and optimizing** tech solutions. Whether it's crafting **intuitive mobile apps**, designing **efficient databases**, or diving into **network security**, I love turning ideas into reality.  
+Hey there! 👋 I'm a **Computer Science student** with a passion for **building, breaking, and optimizing** tech solutions. Whether it's crafting **intuitive mobile apps**, or designing **efficient databases**, I love turning ideas into reality.  
 
 I specialize in **Java, SQL, and Firebase**, blending backend logic with seamless user experiences. Always **curious and driven**, I'm constantly exploring new technologies—whether it’s **AI-powered applications, scalable systems, or cutting-edge networking strategies**.  
 
@@ -18,7 +18,7 @@ Let's connect and create something awesome! 🚀
 - **Concepts:** Object-Oriented Programming, Data Structures, Networking (NAT, DHCP, EIGRP)  
 
 
-## 🚀 Projects  
+## 🚀 Major Projects  
 ### **📱 Smart Knock Doorbell** (Java, Firebase, ESP-32)  
 A **smart home security system** with visitor recognition and mobile alerts.  
 
