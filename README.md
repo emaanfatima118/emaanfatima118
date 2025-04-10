@@ -70,13 +70,3 @@ Always curious, always learning.
 
 Let's build something amazing! 🚀  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emaan-fatima-42723a311/) or check out my work on [GitHub](https://github.com/emaanfatima118).
-
-
-
-## 📫 Connect With Me  
-💼 [LinkedIn](https://www.linkedin.com/in/emaan-fatima-42723a311/)  
-📂 [GitHub](https://github.com/emaanfatima118)  
-✉️ Email: femaan118@gmail.com  
-
-
-### ⚡ Let's Code & Innovate! 🚀  
