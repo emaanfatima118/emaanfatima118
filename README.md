@@ -1,6 +1,4 @@
-# Hi there!
-
-I'm **Emaan Fatima**, a Computer Science student, mobile app developer, and AI enthusiast.  
+Welcome to my profile! I'm **Emaan Fatima**, a Computer Science student, mobile app developer, and AI enthusiast.  
 I enjoy building smart, real-world applications—from mobile apps to intelligent systems using web scraping and deepfake AI.  
 Always curious, always learning.
 
